@@ -1,9 +1,7 @@
-# EDA to Prediction (DieTanic) 필사
+# 📋 EDA to Prediction (DieTanic) 필사
 
-> 본 프로젝트는 Kaggle Titanic 대회의 대표 노트북인 [EDA to Prediction(DieTanic) by Ash316](https://www.kaggle.com/code/ash316/eda-to-prediction-dietanic)을 필사하며
+> 본 프로젝트는  [Kaggle Titanic 대회](https://www.kaggle.com/competitions/titanic)의 대표 노트북인 [EDA to Prediction(DieTanic) by Ash316](https://www.kaggle.com/code/ash316/eda-to-prediction-dietanic)을 필사하며
 > Titanic 생존자 예측을 위한 데이터 분석 및 모델링 전 과정을 학습한 기록입니다.
-
-> Kaggle Titanic 대회: [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)
 
 <br>
 
